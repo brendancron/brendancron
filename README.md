@@ -8,17 +8,17 @@
 
 - **[Cronyx (Modular .NET Hosting Framework)](https://github.com/brendancron/Cronyx)** — Plugin-based host with DI and dynamic module loading; supports local/remote execution (gRPC) and unified logging across modules. `C#/.NET`
 
-- **[Cronyx Game Engine (Complex Interpretation for Turn Based Games)](https://github.com/brendancron/CronyxGameEngine)** — Deterministic, effect-driven engine for turn-based simulations with an interpreter/AST pipeline for complex actions. `C#/.NET`
+- **[Cronyx Game Engine (Complex Interpretation for Turn Based Games)](https://github.com/brendancron/CronyxGameEngine)** — Deterministic, effect-driven engine for turn-based simulations with an interpreter/AST pipeline for complex actions. `F#/.NET`
 
 - **[The Alchemist Mod (Slay the Spire Mod)](https://github.com/brendancron/AlchemistMod)** — A custom Slay the Spire character mod with bespoke cards, relics, and mechanics themed around alchemy. `Java/ModTheSpire`
 
-- **[Chess Openings](https://github.com/brendancron/ChessOpenings)** — Opening-tree trainer to author and review variations with branching lines and practice drills. `TBD`
+- **[Chess Openings](https://github.com/brendancron/ChessOpenings)** — Opening-tree trainer to author and review variations with branching lines and practice drills. `Java`
 
 - **[Pokemon Roguelike (Godot Pokemon Clone)](https://github.com/brendancron/PokemonRoguelike)** — Godot prototype exploring Pokémon-style battling and roguelike progression loops. `Godot C#`
 
 - **[Brightspot Plugin](https://github.com/brendancron/BrightspotPlugin)** — IntelliJ plugin to streamline calling methods against a Brightspot/debug web environment from the IDE. `Java/IntelliJ Platform`
 
-- **[Wordle Solver](https://github.com/brendancron/WordleSolver)** — Information-theoretic solver that ranks guesses by expected entropy; supports automated play. `Python`
+- **[Wordle Solver](https://github.com/brendancron/WordleSolver)** — Information-theoretic solver that ranks guesses by expected entropy; supports automated play. `Java`
 
 - **[Poke Card Game](https://github.com/brendancron/PokeCardGame)** — Unity prototype of a Hearthstone-style card battler with deck/turn systems and effect resolution. `Unity C#`
 
