@@ -1,6 +1,6 @@
 # Brendan Cron
 
-**Quick links:** [Website](#) • [LinkedIn](#) • [Email](brendancron@gmail.com)
+**Quick links:** [LinkedIn]([#](https://www.linkedin.com/in/brendan-cron/)) • [Email](brendancron@gmail.com)
 
 ---
 
